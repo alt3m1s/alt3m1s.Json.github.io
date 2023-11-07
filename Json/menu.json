@@ -1,0 +1,64 @@
+{
+    "menuItems": [
+        {
+            "text": "Inicio",
+            "url": "#"
+        },
+        {
+            "text": "Cuentas",
+            "url": "#",
+            "subMenu": [
+                { "text": "Ahorros en Pesos", "url": "#" },
+                { "text": "Ahorros en Dolares", "url": "#" },
+                { "text": "Ahorros en Euro", "url": "#" },
+                { "text": "Ahorros Para Niños", "url": "#" },
+                { "text": "Ahorros Hansel+", "url": "#" }
+            ]
+        },
+        {
+            "text": "Préstamos",
+            "url": "#",
+            "subMenu": [
+                { "text": "Prestamos Consumo", "url": "#" },
+                { "text": "Prestamos Personales", "url": "#" },
+                { "text": "Prestamos Comerciales", "url": "#" },
+                { "text": "Prestamos de Vehiculos", "url": "#" }
+            ]
+        },
+        {
+            "text": "Tarjetas",
+            "url": "#",
+            "subMenu": [
+                { "text": "Tarjeta de Crédito", "url": "#" },
+                { "text": "Tarjetas de Credito Gold", "url": "#" },
+                { "text": "Tarjetas de Credito Platinum", "url": "#" },
+                { "text": "Tarjetas de Credito en Dolares", "url": "#" }
+            ]
+        },
+       
+        {
+            "text": "Seguros",
+            "url": "#",
+            "subMenu": [
+                { "text": "Seguros de Accidentes", "url": "#" },
+                { "text": "Seguros Funerarios", "url": "#" },
+                { "text": "Seguros Personales", "url": "#" }
+            ]
+        },
+        {
+            "text": "Servicios",
+            "url": "#",
+            "subMenu": [
+                { "text": "Certificados", "url": "#" },
+                { "text": "Fondo de Inversion", "url": "#" },
+                { "text": "Depositos a Plazo Fijo", "url": "#" }
+                
+            ]
+        },
+        {
+            "text": "Internet Banking",
+            "url": "#"
+
+        }
+    ]
+}
